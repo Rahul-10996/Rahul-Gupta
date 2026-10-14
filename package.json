@@ -1,0 +1,16 @@
+{
+  "name": "newserver",
+  "version": "1.0.0",
+  "description": "\"this my second server\"",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "none",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
